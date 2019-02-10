@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\INFORMATICS 3A\assignment1-cs-SiyabongaButhelezi-master\assignment1-cs-SiyabongaButhelezi-master\Assignment1-CS\bin\Debug\netcoreapp2.1\Assignment1-CS.deps.json
+C:\Users\User\Desktop\INFORMATICS 3A\assignment1-cs-SiyabongaButhelezi-master\assignment1-cs-SiyabongaButhelezi-master\Assignment1-CS\bin\Debug\netcoreapp2.1\Assignment1-CS.runtimeconfig.json
+C:\Users\User\Desktop\INFORMATICS 3A\assignment1-cs-SiyabongaButhelezi-master\assignment1-cs-SiyabongaButhelezi-master\Assignment1-CS\bin\Debug\netcoreapp2.1\Assignment1-CS.runtimeconfig.dev.json
+C:\Users\User\Desktop\INFORMATICS 3A\assignment1-cs-SiyabongaButhelezi-master\assignment1-cs-SiyabongaButhelezi-master\Assignment1-CS\bin\Debug\netcoreapp2.1\Assignment1-CS.dll
+C:\Users\User\Desktop\INFORMATICS 3A\assignment1-cs-SiyabongaButhelezi-master\assignment1-cs-SiyabongaButhelezi-master\Assignment1-CS\bin\Debug\netcoreapp2.1\Assignment1-CS.pdb
+C:\Users\User\Desktop\INFORMATICS 3A\assignment1-cs-SiyabongaButhelezi-master\assignment1-cs-SiyabongaButhelezi-master\Assignment1-CS\obj\Debug\netcoreapp2.1\Assignment1-CS.csprojAssemblyReference.cache
+C:\Users\User\Desktop\INFORMATICS 3A\assignment1-cs-SiyabongaButhelezi-master\assignment1-cs-SiyabongaButhelezi-master\Assignment1-CS\obj\Debug\netcoreapp2.1\Assignment1-CS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\INFORMATICS 3A\assignment1-cs-SiyabongaButhelezi-master\assignment1-cs-SiyabongaButhelezi-master\Assignment1-CS\obj\Debug\netcoreapp2.1\Assignment1-CS.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\INFORMATICS 3A\assignment1-cs-SiyabongaButhelezi-master\assignment1-cs-SiyabongaButhelezi-master\Assignment1-CS\obj\Debug\netcoreapp2.1\Assignment1-CS.AssemblyInfo.cs
+C:\Users\User\Desktop\INFORMATICS 3A\assignment1-cs-SiyabongaButhelezi-master\assignment1-cs-SiyabongaButhelezi-master\Assignment1-CS\obj\Debug\netcoreapp2.1\Assignment1-CS.dll
+C:\Users\User\Desktop\INFORMATICS 3A\assignment1-cs-SiyabongaButhelezi-master\assignment1-cs-SiyabongaButhelezi-master\Assignment1-CS\obj\Debug\netcoreapp2.1\Assignment1-CS.pdb
