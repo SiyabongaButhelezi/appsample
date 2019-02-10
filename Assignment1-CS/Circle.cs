@@ -19,6 +19,7 @@ namespace Assignment1_CS
             return 0;
             // TODO: Calculate Area of circle
             // PI is defined
+            return PI * (radius^2);
         }
     }
 }
